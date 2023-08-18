@@ -1,1 +1,1 @@
-# Java Practice Questions
+# Java Questions
